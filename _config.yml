@@ -1,0 +1,13 @@
+# Site settings
+title: Josh Rants
+email: josh@joshpriestley.co.uk
+description: > # this means to ignore newlines until "baseurl:"
+    Rants by Josh Priestley. Some iPlayer, some personal. All Ranty.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://blog.joshpriestley.co.uk" # the base hostname & protocol for your site
+
+twitter_username: paystey
+github_username:  joshrp
+
+# Build settings
+markdown: kramdown

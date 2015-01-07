@@ -11,5 +11,11 @@ layout: default
   <article class="post-content">
     {{ content }}
   </article>
+  <footer>
+    <p class="post-meta">
+	Tags: {{ page.tags | array_to_sentence_string }}
+    </p>
+
+  </footer>
 
 </div>
